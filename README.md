@@ -6,4 +6,4 @@ I'm a student in grade 8 in the San Fernando Valley, learning AI and data scienc
 - Outside of school I like to: swim
 - One thing I'd like to build or find out with data: something to help people!
 # This repository
-This is my first repository. I'm using it to practice Git and GitHub.
+- This is my first repository. I'm using it to practice Git and GitHub.
