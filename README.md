@@ -1,5 +1,4 @@
 # my-first-repo
-valley ai workshop
 Hi, I'm Ivy 👋
 I'm a student in grade 8 in the San Fernando Valley, learning AI and data science with the Valley AI Club.
 About me
